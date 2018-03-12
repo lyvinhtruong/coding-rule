@@ -2,7 +2,7 @@
 
 First, let view the Git branches map as below picture:
 
-![Github Operation Workflow](https://github.com/EvolableAsiaDevelopment/eva-operation-rule/blob/master/images/git-work-flow.png?raw=true)
+![Github Operation Workflow](https://github.com/truonglv-eva/coding-rule/blob/master/images/git-work-flow.png?raw=true)
 
 
 ### 1. Coding:
@@ -55,7 +55,7 @@ First, let view the Git branches map as below picture:
 
 
 ### 4. Review code:
-* When reviewing code, you must check for [Coding Styles](https://github.com/EvolableAsiaDevelopment/eva-operation-rule/blob/master/wordpress-coding-standards.md) on Pull Request
+* When reviewing code, you must check for [Coding Styles](https://github.com/truonglv-eva/coding-rule/blob/master/wordpress-coding-standards.md) on Pull Request
 * You should also give your idea by comment in the Pull Request (Ex: Report bugs (required), remind or suggest a better solution (optional),...)
 
 
@@ -97,4 +97,4 @@ First, let view the Git branches map as below picture:
 
 
 Next:
-[Wordpress Coding Standards](https://github.com/EvolableAsiaDevelopment/eva-operation-rule/blob/master/wordpress-coding-standards.md)
+[Wordpress Coding Standards](https://github.com/truonglv-eva/coding-rule/blob/master/wordpress-coding-standards.md)

@@ -77,5 +77,5 @@ FOUND 13 ERROR(S) AFFECTING 7 LINE(S)
 * Find and replace `Generic.WhiteSpace.DisallowSpaceIndent` into `Generic.WhiteSpace.DisallowTabIndent`
 
 ### Editors Integration
-* [Sublime Text 3](https://github.com/EvolableAsiaDevelopment/eva-operation-rule/blob/master/php-coding-standards/sublimetext-Integration.md)
-* [Netbeans 8](https://github.com/EvolableAsiaDevelopment/eva-operation-rule/blob/master/php-coding-standards/netbeans-integration.md)
+* [Sublime Text 3](https://github.com/truonglv-eva/coding-rule/blob/master/php-coding-standards/sublimetext-Integration.md)
+* [Netbeans 8](https://github.com/truonglv-eva/coding-rule/blob/master/php-coding-standards/netbeans-integration.md)
